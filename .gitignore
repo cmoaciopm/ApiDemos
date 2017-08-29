@@ -1,0 +1,4 @@
+gradle.properties
+import-summary.txt
+local.properties
+build/
